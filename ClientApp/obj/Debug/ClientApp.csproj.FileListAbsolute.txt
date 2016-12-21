@@ -1,0 +1,16 @@
+C:\Users\ochoaas\Documents\Visual Studio 2015\Projects\WebApiSelfHost\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+C:\Users\ochoaas\Documents\Visual Studio 2015\Projects\WebApiSelfHost\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\ochoaas\Documents\Visual Studio 2015\Projects\WebApiSelfHost\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\ochoaas\Documents\Visual Studio 2015\Projects\WebApiSelfHost\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\ochoaas\Documents\Visual Studio 2015\Projects\WebApiSelfHost\ClientApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ochoaas\Documents\Visual Studio 2015\Projects\WebApiSelfHost\ClientApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ochoaas\Documents\Visual Studio 2015\Projects\WebApiSelfHost\ClientApp\bin\Debug\WebApiSelfHost.exe
+C:\Users\ochoaas\Documents\Visual Studio 2015\Projects\WebApiSelfHost\ClientApp\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\ochoaas\Documents\Visual Studio 2015\Projects\WebApiSelfHost\ClientApp\bin\Debug\System.Web.Http.dll
+C:\Users\ochoaas\Documents\Visual Studio 2015\Projects\WebApiSelfHost\ClientApp\bin\Debug\WebApiSelfHost.pdb
+C:\Users\ochoaas\Documents\Visual Studio 2015\Projects\WebApiSelfHost\ClientApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ochoaas\Documents\Visual Studio 2015\Projects\WebApiSelfHost\ClientApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ochoaas\Documents\Visual Studio 2015\Projects\WebApiSelfHost\ClientApp\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\ochoaas\Documents\Visual Studio 2015\Projects\WebApiSelfHost\ClientApp\bin\Debug\System.Web.Http.xml
+C:\Users\ochoaas\Documents\Visual Studio 2015\Projects\WebApiSelfHost\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\ochoaas\Documents\Visual Studio 2015\Projects\WebApiSelfHost\ClientApp\obj\Debug\ClientApp.pdb
